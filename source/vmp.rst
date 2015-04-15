@@ -1,0 +1,2 @@
+Variational message passing
+===========================

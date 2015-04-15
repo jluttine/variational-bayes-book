@@ -1,5 +1,5 @@
-"Variational Bayesian methods" open access book
-===============================================
+Open access book: "Variational Bayesian methods"
+================================================
 
 This project aims to write an open book on variational Bayesian methods in a
 collaborative manner.  Thus, feel free to contribute!

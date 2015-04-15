@@ -12,13 +12,21 @@ Contents:
    :maxdepth: 2
 
    introduction
+   bayes
+   vb
+   vmp
+   riemannian
+   optimization
+   stochastic
+   nonconjugate
+   inference_model
 
 
+..
+   Indices and tables
+   ==================
+   * :ref:`genindex`
+   * :ref:`modindex`
+   * :ref:`search`
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
 
