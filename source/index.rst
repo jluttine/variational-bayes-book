@@ -20,8 +20,11 @@ Contents:
    stochastic
    nonconjugate
    inference_model
+   bibliography
 
-
+..
+    * :doc:`Bibliography <references>`
+  
 ..
    Indices and tables
    ==================

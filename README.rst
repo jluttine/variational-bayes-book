@@ -22,3 +22,19 @@ by using Sphinx.  The syntax is extremely easy to write but has enough features
 for a relatively complex book project.  Sphinx makes it easy to produce
 different output formats such as PDF, HTML and EPUB.  If you have better ideas,
 please suggest.
+
+
+In order to compile the book, you need to install Sphinx and some extensions:
+
+.. code-block:: console
+
+   pip install sphinx sphinxcontrib-bibtex
+
+Then compile into various formats using makefile:
+
+.. code-block:: console
+
+   make html
+   make latexpdf
+   make epub
+ 

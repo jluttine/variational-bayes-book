@@ -34,10 +34,16 @@ extensions = [
     'sphinx.ext.doctest',
     'sphinx.ext.todo',
     'sphinx.ext.mathjax',
+    'sphinxcontrib.bibtex',
+    'sphinx_numfig',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
+
+# numfig:
+numfig_number_figures = True
+numfig_figure_caption_prefix = "Figure"
 
 # The suffix(es) of source filenames.
 # You can specify multiple suffix as a list of string:
