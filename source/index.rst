@@ -15,10 +15,13 @@ Contents:
    bayes
    vb
    vmp
-   riemannian
-   optimization
    stochastic
    nonconjugate
+   riemannian
+   optimization
+   gp
+   markov
+   blackbox
    inference_model
    bibliography
 

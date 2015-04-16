@@ -1,16 +1,27 @@
 Variational Bayesian approximation
 ==================================
 
-.. todo::
    
-   * Kullback-Leibler divergence
+Minimizing Kullback-Leibler divergence
+--------------------------------------
 
-   * lower bound
+* lower bound
 
-   * mean-field, fixed form
 
-   * VB-EM (conjugate exponential family models)
 
+Mean-field, fixed form
+----------------------
+
+
+Variational Bayesian expectation maximization algorithm
+-------------------------------------------------------
+
+(conjugate exponential family models)
+
+
+.. todo::
+
+   Split and fix the text below into the sections
 
 
 In variational Bayesian (VB) methods, the idea is to find an approximate

@@ -1,8 +1,13 @@
-Optimization
-============
+Improving optimization
+======================
 
-* parameter expansion
+Deterministic annealing
+-----------------------
 
-* pattern searches
 
-* deterministic annealing
+Parameter expansion
+-------------------
+
+
+Pattern searches
+----------------
